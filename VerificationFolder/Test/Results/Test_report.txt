@@ -1,0 +1,23 @@
+Report on Test measurement 
+Runs Included: 
+[12711. 12712. 12713. 12714. 12715. 12716. 12717. 12718. 12719. 12720.
+ 12721.]
+The total number of pulses passing cuts in this analysis is 7940478
+The total number of pulses between 0<r<40 above 200 phd is: 1138 
+The largest pulse that did not trigger for 0<r<40 is: 200.1476593017578 phd 
+The total number of pulses between 40<r<57 above 200 phd is: 809 
+The largest pulse that did not trigger for 40<r<57 is: 182.05279541015625 phd 
+The total number of pulses between 57<r<80 above 200 phd is: 2722 
+The largest pulse that did not trigger for 57<r<80 is: 226.24075317382812 phd 
+The Run ID and Event IDs of the not triggered pulses are: 
+12720 699037
+12721 1735135
+For the sigmoid fit we get: x0 = 107.41487771961705 +/- 0.343250378999143 and k = 0.04865552094147902 +/- 0.0010353886741761849
+For the sigmoid fit we get the fifty percent threshold is 107.41487771961705+/-0.343250378999143 phd
+For the sigmoid fit we get the ninety-five percent threshold is 167.93090801159352+/-1.3327409531386896 phd
+
+ The total number of pulses above 200 phd is: 4669 
+The total number of random triggers included in this measurement is 21538099.0
+The total number of gps triggers included in this measurement is 1890.0
+The total number of events (before total area cuts) from this dataset is 21995000.0
+The total number of events (after total area cuts) from this dataset is 21539913.0
